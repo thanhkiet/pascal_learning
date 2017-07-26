@@ -18,7 +18,7 @@ begin
 	exit (chuoi);
 end;
 begin 
-	write('Nhap he tap phan : ');
+	write('Nhap he thap phan : ');
 	readln(dec);
 	writeln(decBin(dec));
 	readln
