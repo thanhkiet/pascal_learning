@@ -19,7 +19,7 @@ begin
 	exit(result);
 end;
 begin 
-	write('Nhap so o he thap phan : ')
+	write('Nhap so o he thap phan : ');
 	readln(dec);
 	writeln(decHex(dec));
 	readln
