@@ -1,4 +1,4 @@
-(*chuyển số ở hệ thập phân asg nhệ thập lục phân*)
+(*chuyển số ở hệ thập phân sang nhệ thập lục phân*)
 
 program gin;
 uses crt;
